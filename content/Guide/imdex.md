@@ -1,8 +1,8 @@
 ---
-title: "Test 1-3"
+title: "Gatsby 가이드"
 date: 2023-02-05 10:51:13
-subtitle: "This is test md file"
-category: "Category1"
+subtitle: "가이드 문서입니다."
+category: "Guide"
 draft: false
 ---
 
