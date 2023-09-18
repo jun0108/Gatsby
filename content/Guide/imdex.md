@@ -1,13 +1,14 @@
 ---
 title: "Gatsby 가이드"
 date: 2023-02-05 10:51:13
+author: "jun0"
 subtitle: "가이드 문서입니다."
 category: "Guide"
 draft: false
 ---
 
-## Test 1-3
+## Gatsby 사용법
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+`React` 기반의 정적 사이트 생성 프레임워크입니다.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+JAM Stack 기반으로 사용자에게 화면을 보여주기 위해 준비하는 시간을 단축할 수 있다는 장점이 있습니다.

@@ -3,12 +3,19 @@
   flex-direction: column;
   gap: 20px;
 }
+.postInfo {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 5px;
+  .postTitle {
+    color: var(--lg-light-black);
+  }
 
-.postTitle {
-  color: var(--lg-light-black);
-}
-
-.postDate {
-  color: var(--lg-dark-gray);
-  padding-left: 5px;
+  .postDate {
+    color: var(--lg-dark-gray);
+  }
+  .postAuthor {
+    color: var(--lg-dark-gray);
+  }
 }

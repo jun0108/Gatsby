@@ -57,6 +57,7 @@ export const blogQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        author
       }
     }
   }
