@@ -5,7 +5,7 @@
 ## How to Use
 
 ```
-$ gaysby develop
+$ gatsby develop
 ```
 
 # History
