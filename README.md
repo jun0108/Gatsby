@@ -1,7 +1,11 @@
-# gatsby
+# Gatsby Guide
+
+- `React` 기반의 프레임워크입니다.
+
+## How to Use
 
 ```
-gaysby develop
+$ gaysby develop
 ```
 
 # History
