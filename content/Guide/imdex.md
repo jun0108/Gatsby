@@ -1,6 +1,6 @@
 ---
 title: "Gatsby 가이드"
-date: 2023-02-05 10:51:13
+date: 2023-09-18 10:51:13
 author: "jun0"
 subtitle: "가이드 문서입니다."
 category: "Guide"
