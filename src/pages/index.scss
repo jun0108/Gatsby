@@ -1,4 +1,4 @@
-@import "../styles/size";
+@import "../styles/common";
 
 .homeContainer {
   max-width: $mainContent-width;
@@ -8,4 +8,3 @@
   flex-direction: column;
   gap: 30px;
 }
-

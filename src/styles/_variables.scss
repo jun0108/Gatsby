@@ -1,0 +1,81 @@
+// =========== Layout =========== //
+$footer-height: 60px;
+
+$navbar-width-bigScreen: 240px;
+
+$navbar-height-smallScreen: 60px;
+
+$innerContainer-width: 150px;
+
+$mainContent-width: 700px;
+
+$contentList-height: 700px;
+
+// =========== Break Point =========== //
+// Small tablets and large smartphones (landscape view)
+$screen-sm-min: 576px;
+
+// Small tablets (portrait view)
+$screen-md-min: 768px;
+
+// Tablets and small desktops
+$screen-lg-min: 992px;
+
+// Large tablets and desktops
+$screen-xl-min: 1200px;
+
+:root {
+  // =========== Color =========== //
+  /** Light Theme **/
+  --lg-black: #000000;
+  --lg-light-black: #212529;
+  --lg-darkest-gray: #343a40;
+  --lg-darker-gray: #495057;
+  --lg-dark-gray: #6c757d;
+  --lg-normal-gray: #adb5bd;
+  --lg-light-gray: #ced4da;
+  --lg-lighter-gray: #dee2e6;
+  --lg-lightest-gray: #e9ecef;
+  --lg-darker-white: #f8f9fa;
+  --lg-white: #ffffff;
+  --lg-blue: #0969da;
+
+  /** Dark Theme **/
+  --dk-black: #000000;
+  --dk-light-black: #212529;
+  --dk-darkest-gray: #343a40;
+  --dk-darker-gray: #495057;
+  --dk-dark-gray: #6c757d;
+  --dk-normal-gray: #adb5bd;
+  --dk-light-gray: #ced4da;
+  --dk-lighter-gray: #dee2e6;
+  --dk-lightest-gray: #e9ecef;
+  --dk-darker-white: #f8f9fa;
+  --dk-white: #ffffff;
+
+  // =========== Font =========== //
+  --text-3xs: 10px;
+  --text-2xs: 11px;
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-lg: 18px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --text-3xl: 32px;
+  --text-4xl: 38px;
+  --text-5xl: 48px;
+  --text-6xl: 60px;
+  --text-7xl: 72px;
+  --text-8xl: 96px;
+  --text-9xl: 128px;
+
+  --font-thin: 100;
+  --font-extralight: 200;
+  --font-light: 300;
+  --font-normal: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+  --font-extrabold: 800;
+}

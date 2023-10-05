@@ -11,7 +11,7 @@ import { useCategory } from "../hooks/useCategory";
 import { usePosts } from "../hooks/usePosts";
 
 import { Layout } from "../layout";
-import "../styles/_typography.scss";
+import "../styles/_common.scss";
 import "./index.scss";
 
 export default function Page({ data }) {
