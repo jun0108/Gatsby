@@ -1,5 +1,5 @@
 module.exports = {
-  blogName: "방로그",
+  blogName: "puBlog",
 
   title: "Gatsby와 함께하는 React 공부",
   author: "jun0",
